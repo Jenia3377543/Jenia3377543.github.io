@@ -6,11 +6,11 @@
            "package":"english.a33775.jenia.com.englishNew",
            "appName":[
                {
-                  "language":"ru"
+                  "language":"ru",
                   "name":"Английский для Психометрии и Амира"
                },
                {
-                  "language":"iw"
+                  "language":"iw",
                   "name":"אנגלית לפסיכומטרי ואמיר"
                }
            ]
@@ -21,22 +21,22 @@
            "package":"com.theoryapp.jenia.theoryapplication.free",
            "appName":[
                {
-                  "language":"ru"
+                  "language":"ru",
                   "name":"Учим теорию 2021"
                },
               
                {
-                  "language":"iw"
+                  "language":"iw",
                   "name":"לימוד תאוריה 2021"
                },
               
                {
-                  "language":"ar"
+                  "language":"ar",
                   "name":"نظرية الدراسة 2021"
                },
               
                {
-                  "language":"en"
+                  "language":"en",
                   "name":"Driving Theory 2021"
                }
            ]
@@ -47,22 +47,22 @@
            "package":"com.theoryapp.jenia.theoryapplication.paid",
            "appName":[
                  {
-                  "language":"ru"
+                  "language":"ru",
                   "name":"Учим теорию 2021"
                },
               
                {
-                  "language":"iw"
+                  "language":"iw",
                   "name":"לימוד תאוריה 2021"
                },
               
                {
-                  "language":"ar"
+                  "language":"ar",
                   "name":"نظرية الدراسة 2021"
                },
               
                {
-                  "language":"en"
+                  "language":"en",
                   "name":"Driving Theory 2021"
                }
            ]
