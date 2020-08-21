@@ -1,6 +1,6 @@
 {
-   "apps":[
-       {
+   [
+       "app":{
            "playMarketLink":"https://play.google.com/store/apps/details?id=english.a33775.jenia.com.englishNew",
            "imageLink":"https://lh3.googleusercontent.com/dBnGXucGmLxS4iAvoELUEoAYGGNTCs2p4Jx01U5kl7e--2_c2SL-f-b2nsSknWzKE5c=s180-rw",
            "package":"english.a33775.jenia.com.englishNew",
@@ -9,7 +9,7 @@
                {"iw":"אנגלית לפסיכומטרי ואמיר"}
            ]
        },      
-       {
+       "app":{
            "playMarketLink":"https://play.google.com/store/apps/details?id=com.theoryapp.jenia.theoryapplication.free",
            "imageLink":"https://lh3.googleusercontent.com/sN-5dtjmVJoYHoObBYOj_Oj7hDzuNg0ZRsK072ObH-wKVbcocJpch3gFI29dthvB1w=s180-rw",
            "package":"com.theoryapp.jenia.theoryapplication.free",
@@ -20,7 +20,7 @@
                {"en":"Driving Theory 2021"}
            ]
        },
-       {
+       "app":{
            "playMarketLink":"https://play.google.com/store/apps/details?id=com.theoryapp.jenia.theoryapplication.paid",
            "imageLink":"https://lh3.googleusercontent.com/4C8F6hnMq8e4zp4aiiDhj19vwXlHtPWH0S5b47tUKsyNF4ZYHnQ9ubPHhY1pgWv75P-H=s180-rw",
            "package":"com.theoryapp.jenia.theoryapplication.paid",
