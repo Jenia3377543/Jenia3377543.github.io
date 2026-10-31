@@ -1,0 +1,12 @@
+title: Theory Champion
+description: Theory Champion (אלוף התאוריה) — Israeli driving theory test practice app.
+author: AlufHaTheoriya
+email: support.alufhatheoriya@gmail.com
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - README.md
